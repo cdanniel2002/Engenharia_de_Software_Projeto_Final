@@ -9,7 +9,7 @@
 ## Instalação
 1. Clone o projeto.
     ```bash
-    git clone https://github.com/LucasMairon/SAGE.git
+    git clone https://github.com/cdanniel2002/Engenharia_de_Software_Projeto_Final.git
     ```
 2. crie o ambiente virtual e ative-o.
     ```bash
