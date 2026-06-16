@@ -26,7 +26,7 @@ O FinanSee é desenvolvido utilizando as seguintes tecnologias:
 - Frontend:
     - [Next.js](https://nextjs.org/)
 - Banco de dados:
-    - [Postgresql](https://www.postgresql.org/)
+    - [SQLite](https://sqlite.org/)
 - Diagramação:
     - [PlantUML](https://plantuml.com/)
     - [BRMW](https://www.brmodeloweb.com/)
@@ -74,6 +74,13 @@ O projeto conta com um script de inicialização automatizada (start.bat) compat
 ```
 Execute o arquivo de inicialização:
 start.bat
+
+### 🔹 Linux ou macOS
+Caso esteja utilizando Linux ou macOS, a execução deve ser feita manualmente inicializando os dois ambientes:
+
+Backend: Navegar até a pasta backend/, ativar o ambiente virtual e rodar python manage.py runserver.
+
+Frontend: Navegar até a pasta Front/ e rodar npm run dev (ou o gerenciador de pacotes utilizado).
 
 ## Integrantes da Equipe
 | Nome | Github |
