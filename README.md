@@ -50,6 +50,15 @@ FinanSee/
 ```
 
 ## Instruções de Execução
+O projeto conta com um script de inicialização automatizada (start.bat) compatível com *Windows*. Ele gerencia tanto a instalação das dependências quanto a execução dos ambientes de Frontend e Backend simultaneamente.
+
+### 🔹 No Windows (Via Script Automatizado)
+1. Abra o prompt de comando (CMD) e navegue até a pasta raiz do projeto:
+```bash
+   cd FinanSee
+```
+Execute o arquivo de inicialização:
+start.bat
 
 ## Integrantes da Equipe
 | Nome | Github |
