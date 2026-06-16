@@ -4,7 +4,7 @@
 FinanSee é uma aplicação web desenvolvida para auxiliar no gerenciamento financeiro e orçamentário pessoal. Em um cenário econômico frequentemente incerto, onde a busca por estabilidade financeira é constante, o FinanSee surge como uma solução eficaz e intuitiva. Nosso objetivo é capacitar os usuários a controlar suas finanças de maneira organizada, prática e segura, facilitando o alcance de metas financeiras e promovendo a educação financeira.
 
 ## Descrição do Problema
-A gestão financeira pessoal da maior parte da população pode ser considerada descentralizada e predominoriamente analógica, agravado por falta de uma educação financeira formal oferecida na educação básica. Os métodos de controle tradicionais, como cadernos físicos, folhas de cálculo manuais acabam sendo pouco intuitivos quando é necessário um nível de disciplina elevado além de não profidenciar uma análise direta dos gastos e o que pode ser melhorado.
+A gestão financeira pessoal da maior parte da população pode ser considerada descentralizada e predominantemente analógica, agravado por falta de uma educação financeira formal oferecida na educação básica. Os métodos de controle tradicionais, como cadernos físicos, folhas de cálculo manuais acabam sendo pouco intuitivos quando é necessário um nível de disciplina elevado além de não providenciar uma análise direta dos gastos e o que pode ser melhorado.
 
 ## Principais Funcionalidades
 - RF-1 (Gestão de Acesso Seguro): Criação de contas seguras com validação rigorosa de credenciais (Nome, E-mail, CPF, Telefone, Senha, Renda e Data de Nascimento) e controle de Login/Logout. 
