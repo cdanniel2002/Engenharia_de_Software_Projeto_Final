@@ -82,6 +82,9 @@ Backend: Navegar até a pasta backend/, ativar o ambiente virtual e rodar python
 
 Frontend: Navegar até a pasta Front/ e rodar npm run dev (ou o gerenciador de pacotes utilizado).
 
+### Link do Protótipo do Projeto
+https://www.figma.com/design/cUg82HmsoAIITcphNIMaFB/FinanSee?node-id=880-126&t=vF5PJd4HWcGDpJ7I-1
+
 ## Integrantes da Equipe
 | Nome | Github |
 |---|---|
