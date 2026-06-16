@@ -25,6 +25,8 @@ O FinanSee é desenvolvido utilizando as seguintes tecnologias:
     - [Django Rest Framework](https://www.django-rest-framework.org/)
 - Frontend:
     - [Next.js](https://nextjs.org/)
+- Banco de dados:
+    - [Postgresql](https://www.postgresql.org/)
 - Diagramação:
     - [PlantUML](https://plantuml.com/)
     - [BRMW](https://www.brmodeloweb.com/)
