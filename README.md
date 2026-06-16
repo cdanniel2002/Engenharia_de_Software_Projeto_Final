@@ -27,8 +27,11 @@ O FinanSee é desenvolvido utilizando as seguintes tecnologias:
     - [Next.js](https://nextjs.org/)
 - Diagramação:
     - [PlantUML](https://plantuml.com/)
+    - [BRMW](https://www.brmodeloweb.com/)
+    - [Lucidchart](https://www.lucidchart.com/pages/pt)
 
 ## Estrutura do Projeto
+### Navegação de Pastas
 ```
 FinanSee/
 ├── Front/              # Aplicação frontend (Next.js)
@@ -41,16 +44,26 @@ FinanSee/
 │   ├── views/          # Lógica das views
 │   └── ...
 ├── documents/          # Documentação e diagramas
-│   └── *.puml          # Diagramas PlantUML
+│   └── *.puml          # Diagramas PlantUML, BRMW e Lucidchart
 ├── logo/               # Assets de identidade visual
 │   └── logo.svg
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
+###  Fluxo Básico de Funcionamento
+```
+Usuário
+ ↓
+Frontend (Next.js)
+ ↓
+API REST (Django REST Framework)
+ ↓
+Banco de Dados
+```
 
 ## Instruções de Execução
-O projeto conta com um script de inicialização automatizada (start.bat) compatível com *Windows*. Ele gerencia tanto a instalação das dependências quanto a execução dos ambientes de Frontend e Backend simultaneamente.
+O projeto conta com um script de inicialização automatizada (start.bat) compatível com *Windows*. Ele gerencia tanto a instalação das dependências quanto a execução dos ambientes de Frontend e Backend simultaneamente. O sistema foi implementado diretamente como MVP funcional, substituindo a necessidade de um protótipo separado. A aplicação permite a navegação entre as principais funcionalidades previstas nos requisitos do projeto.
 
 ### 🔹 No Windows (Via Script Automatizado)
 1. Abra o prompt de comando (CMD) e navegue até a pasta raiz do projeto:
